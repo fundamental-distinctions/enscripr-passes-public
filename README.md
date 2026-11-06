@@ -11,10 +11,10 @@ posts on Bluesky via the @passes.enscripr.app labeler.
 ## Why Enscripr Pass?
 ### The Problem
 1. Bot Floods & Inauthentic Posts: Social feeds and web forms are crowded with automated accounts and spam. You can still
-2. use tools or AI in your workflow, while signaling that a real person published the post.
+   use tools or AI in your workflow, while signaling that a real person published the post.
 3. Outdated CAPTCHAs: Traditional image-grid CAPTCHAs are frustrating for people and routinely solved by vision models.
 4. Token Replay: Simple text tags or public verification tokens on social networks can be scraped and reused by automated
-5. scripts.
+   scripts.
 ### How It Works
 - Handwriting Liveness: Users trace a 4-letter prompt rendered in rotating fonts. The challenge evaluates pointer movement
   and character shape.
