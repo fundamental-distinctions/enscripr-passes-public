@@ -152,5 +152,4 @@ Confirm that `"verified": true` in the JSON response and record the `hash` in yo
 - Bluesky Labeler: https://bsky.app/profile/passes.enscripr.app
 - Builder: https://bsky.app/profile/sun-sightz.bsky.social
 - Support: support@enscripr.app
-- Builder: https://bsky.app/profile/sun-sightz.bsky.social
-- Support: support@enscripr.app
+
